@@ -74,6 +74,11 @@ The results showed that timing performance varies across corners, with both posi
 
 ## 7. Video Presentation
 
+My VSDIAT course learning journey and practical implementation work are presented in the video below.
+
+**[Watch the VSD Course Presentation](https://github.com/Aishwaryanomulaa/Final_course_end-vsd-/blob/main/Final_course_video.mp4)**
+
+The video covers RTL Design, Physical Design, VSDBabySoC implementation using OpenROAD, and Static Timing Analysis (STA) across SKY130 timing corners.
 
 ## Conclusion
 
